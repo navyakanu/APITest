@@ -1,0 +1,40 @@
+############################LESSON PLAN###############################################
+
+Python Basics & API Framework
+
+Session 1:
+1) Create a new project (Preferably in PyCharm (any other suggestions are welcome for showcase)
+2) Create a virtual environment to use Python 3.6 on oppose to the default python in Mac
+3) Create a requirements.txt file and install all the dependencies and understand the root folders of installation
+4) Create a TEST directory and write a sample test
+
+Homework:
+1) Practice programs which involve use of loops
+
+Session 2:
+1) Understand oops in python
+2) Sample programs to practice Oops
+3) Functions and indentation issues
+
+Homework:
+1) Decide on the application to test
+
+Session 3:
+1) Take a sample GET API and prepare test data
+2) Call a GET API,Validate status code, build response model
+
+Session 4:
+1) Logging and refactoring
+2) Sample POST API test
+3) Run test along with markers
+
+Session 5:
+1) Bypass authentication
+
+
+Session 6:
+1) Fixtures and fab files
+
+Session 7:
+dockerize /Run in jenkins
+
